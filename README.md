@@ -1,6 +1,6 @@
 # Learn-Java-Interfaces
 
-This Java project demonstrates how to implement multiple interfaces in a single class. The `Learn` class implements two interfaces, `A` and `B`, and provides concrete implementations for their methods.
+This Java project demonstrates how to implement multiple interfaces in a single class. Basic example of interface with multiple inheritance. The `Learn` class implements two interfaces, `A` and `B`, and provides concrete implementations for their methods.
 
 ## Overview
 
